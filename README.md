@@ -1,16 +1,4 @@
 # 🦾 Prosthetic Hand Grasp Recommendation using YOLOv8 
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv)
-![Gemini](https://img.shields.io/badge-Google%20Gemini-4285F4?style=for-the-badge&logo=google)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
-</p>
-
 ---
 
 ## 📖 Overview
@@ -51,9 +39,7 @@ The system detects objects using a **custom-trained YOLOv8 model**, enhances ima
 
 The object detector was trained on a custom household object detection dataset from **Roboflow Universe**.
 
-**Dataset:** Household Objects Detection Dataset  
-https://universe.roboflow.com/voiceautomatedhelpinghand-fmskv/household-objects-detection-ggloy
-
+**Dataset:** [Household Objects Detection Dataset](https://universe.roboflow.com/voiceautomatedhelpinghand-fmskv/household-objects-detection-ggloy)
 
 ### Dataset Classes
 
